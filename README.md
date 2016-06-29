@@ -38,7 +38,7 @@ This code was useful for me I hope it might be the same for anyone who has the s
 I did not write any CMake or Makefile to build and install a shared library and I may never write it but if you're willing to do it you're welcome! The same goes for packaging.
 
 ##Results
-
+![alt text](https://github.com/ichigo663/GLKTextRenderer/blob/master/ingame.png "Font rendering example")
 ------------------------------------------------------------
 
 Copyright **Antonio Cardace** 2016, antonio@cardace.it
