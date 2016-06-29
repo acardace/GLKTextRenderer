@@ -36,3 +36,9 @@ The init and close methods will init and close the TTF library provided by SDL2,
 This code was useful for me I hope it might be the same for anyone who has the same requirements, so if you make any use of it, improve it or just like it let me know! I'll be very glad to know it.
 ##Packaging and Installation
 I did not write any CMake or Makefile to build and install a shared library and I may never write it but if you're willing to do it you're welcome! The same goes for packaging.
+
+##Results
+
+------------------------------------------------------------
+
+Copyright **Antonio Cardace** 2016, antonio@cardace.it
